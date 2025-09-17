@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68c6625a4d9410f8d1237f3e?variant=light&roadmaps=data-analyst%2Cai-engineer%2Ccyber-security%2Cai-data-scientist" alt="roadmap.sh"/></a>
+
 <!--
-**MironAlexandra/MironAlexandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MironAlexandraMironAlexandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
