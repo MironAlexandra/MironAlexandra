@@ -35,9 +35,9 @@ Most of my academic coding life has been on **GitLab** (that’s where our unive
 📂 Featured Projects
 --------------------
 
-*   🔐 **Smart Lock System (Integration 3)** – Arduino + Spring Boot
+*   🔐 **Smart Lock System (Integration 3)** 
     
-*   🚲 **E-Bike Testing Platform (Integration 4)** – BI dashboards + backend
+*   🚲 **E-Bike Testing Platform (Integration 4)** 
     
 
 ✨ _Always learning, always building — one repo at a time._ ✨
