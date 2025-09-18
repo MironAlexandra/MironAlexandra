@@ -2,7 +2,9 @@
 ==========================
 
 🎓 CS & AI student @ KdG (Antwerp)
+
 🔍 Into **data, AI, and full-stack development**
+
 ⚡ Building tools that make tech smarter _and_ easier to use
 
 🚀 About my GitHub
