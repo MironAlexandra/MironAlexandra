@@ -10,7 +10,7 @@
 
 Most of my academic coding life has been on **GitLab** (that’s where our university runs sprints, commits, and team repos).
 
-🚀 Here I’m uploading and documenting my favorite projects — like our **Smart Lock IoT system** and **E-Bike Testing Platform** — so they live beyond the university servers.
+🚀 Here I’m uploading and documenting my favorite projects (like our **Smart Lock IoT system** and **E-Bike Testing Platform**) so they live beyond the university servers.
 
 🔧 Tech I Play With
 -------------------
