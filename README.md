@@ -42,9 +42,9 @@ Most of my academic coding life has been on **GitLab** (that’s where our unive
 
 ✨ _Always learning, always building — one repo at a time._ ✨
 
+<!--
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68c6625a4d9410f8d1237f3e?variant=dark&roadmaps=data-analyst%2Cai-engineer%2Cfull-stack%2Ccyber-security" alt="roadmap.sh"/></a>
 
-<!--
 **MironAlexandraMironAlexandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
