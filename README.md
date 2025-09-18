@@ -17,13 +17,21 @@ Most of my academic coding life has been on **GitLab** (that’s where our unive
 🔧 Tech I Play With
 -------------------
 
-*   **Languages:** Python, Java, SQL
-  
-*   **Frameworks:** Spring Boot, Flask, Bootstrap, Hibernate
+*   **Languages:** Java, Python, SQL (PostgreSQL), HTML, CSS, JavaScript, C++ (basics)
     
-*   **Data & AI:** Pandas, NumPy, Power BI, ML foundations
+*   **Frameworks & Tools:** Spring Boot, Hibernate, Flask, Bootstrap, Docker, Gradle
     
-*   **Tools:** Docker, GitHub/GitLab, Agile/Scrum
+*   **Data & Visualization:** Power BI, Pandas, NumPy, Scikit-learn, Matplotlib
+    
+*   **AI & Automation:** LLMs (prompt workflows), Machine Learning foundations, Prompt Engineering
+    
+*   **Pipelines & Version Control:** GitHub/GitLab, YAML, Markdown
+    
+*   **Cloud & Deployment:** AWS, Docker, CI/CD basics
+    
+*   **Development Practices:** Agile/Scrum, Clean Architecture, Documentation writing
+    
+*   **Responsible AI & Compliance:** EU AI Act, AI Ethics, GDPR/Data Privacy
     
 
 📂 Featured Projects
