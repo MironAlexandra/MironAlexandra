@@ -1,7 +1,7 @@
 👋 Hi, I’m Maria Alexandra
 ==========================
 
-🎓 CS & AI student @ KdG (Antwerp)
+🎓 CS & AI bachelor's degree @ KdG (Antwerp)
 
 🔍 Into **data, AI, and full-stack development**
 
