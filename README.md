@@ -5,42 +5,40 @@
 
 🔍 Into **data, AI, and full-stack development**
 
-⚡ Building tools that make tech smarter _and_ easier to use
+🌍 Open to remote data / SWE roles
 
-🚀 About my GitHub
+About my GitHub
 ------------------
 
-Most of my academic coding life has been on **GitLab** (that’s where our university runs sprints, commits, and team repos). Here I’m uploading and documenting my favorite projects (like our **Smart Lock IoT system** and **E-Bike Testing Platform**) so they live beyond the university servers.
+🚀 Most of my academic coding life has been on **GitLab** (sprints, commits, and team repos). Here I’m uploading and documenting my favorite projects so they live beyond the university servers.
 
-🔧 Tech I Play With
+🔧 Tech I Work With
 -------------------
 
-*   **Languages:** Java, Python, SQL (PostgreSQL), HTML, CSS, JavaScript, C++ (basics)
-    
-*   **Frameworks & Tools:** Spring Boot, Hibernate, Flask, Bootstrap, Docker, Gradle
-    
-*   **Data & Visualization:** Power BI, Pandas, NumPy, Scikit-learn, Matplotlib
-    
-*   **AI & Automation:** LLMs (prompt workflows), Machine Learning foundations, Prompt Engineering
-    
-*   **Pipelines & Version Control:** GitHub/GitLab, YAML, Markdown
-    
-*   **Cloud & Deployment:** AWS, Docker, CI/CD basics
-    
-*   **Development Practices:** Agile/Scrum, Clean Architecture, Documentation writing
-    
-*   **Responsible AI & Compliance:** EU AI Act, AI Ethics, GDPR/Data Privacy
+*   **Languages:** Java • Python • SQL (PostgreSQL) • HTML • CSS • JavaScript • C++ (basics)
+
+*   **Backend:** Spring Boot 3 • Spring MVC • Spring Data JPA (Hibernate) • MapStruct • Jakarta Validation • Spring Security (roles, BCrypt, CSRF, method security) • Thymeleaf • Flask
+
+*   **Frontend:** npm • Webpack • ES modules • SCSS/Sass • Bootstrap 5 • Bootswatch • fetch/AJAX
+
+*   **Databases:** PostgreSQL • schema design (incl. star schema) • seed/data SQL
+
+*   **Data & ML:** Power BI • Pandas • NumPy • scikit-learn • Matplotlib • LLMs (prompt workflows) • Prompt engineering • ML foundations
+
+*   **Testing:** JUnit 5 • MockMvc • Mockito
+
+*   **Build & Dev:** Gradle • YAML • Markdown • Spring profiles (dev/test)
+
+*   **CI/CD & Version Control:** GitHub/GitLab • CI (pipelines)
+
+*   **Cloud & Deployment**: AWS • Docker • Docker Compose
+
+*   **Practices:** REST API design • DTO mapping • @EntityGraph (N+1 control) • transactions (@Transactional) • Clean Architecture • Agile/Scrum • documentation
+
+*   **Responsible AI & Compliance:** EU AI Act awareness • AI ethics • GDPR/Data Privacy
     
 
-📂 Featured Projects
---------------------
-
-*   🔐 **Smart Lock System (Integration 3)** 
-    
-*   🚲 **E-Bike Testing Platform (Integration 4)** 
-    
-
-✨ _Always learning, always building — one repo at a time._ ✨
+✨ _Always learning, always building, one repo at a time._ ✨
 
 <!--
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68c6625a4d9410f8d1237f3e?variant=dark&roadmaps=data-analyst%2Cai-engineer%2Cfull-stack%2Ccyber-security" alt="roadmap.sh"/></a>
