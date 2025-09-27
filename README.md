@@ -10,7 +10,7 @@
 About my GitHub
 ------------------
 
-🚀 Most of my academic coding life has been on **GitLab** (sprints, commits, and team repos). Here I’m uploading and documenting my favorite projects so they live beyond the university servers.
+🚀 Most of my academic coding life has been on **GitLab** (sprints, commits, and team repos). Here I’m uploading and documenting my favorite projects so they live beyond the university servers and I am continuing on a personal journey of building effective software. Next up: **BlueTour** --> stay tuned for more details.
 
 🔧 Tech I Work With
 -------------------
