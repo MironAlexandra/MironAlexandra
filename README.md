@@ -10,7 +10,7 @@
 About my GitHub
 ------------------
 
-🚀 Most of my academic coding life has been on **GitLab** (sprints, commits, and team repos). Here I’m uploading and documenting my favorite projects so they live beyond the university servers and I am continuing on a personal journey of building effective software. Next up: **BlueTour** --> stay tuned for more details.
+🚀 GitLab is my primary workspace for building and documenting projects. Much of my earlier code lives in university-managed repositories, but here I showcase selected work that I continue to maintain and expand. I’m currently developing **BlueTour**, a larger-scale project that reflects my focus on tech solutions to help achive SDG goals.
 
 🔧 Tech I Work With
 -------------------
