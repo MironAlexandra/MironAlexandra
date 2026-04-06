@@ -1,44 +1,60 @@
-👋 Hi, I’m Maria Alexandra
-==========================
+# Alexandra Miron
 
-🎓 CS & AI bachelor's degree @ KdG (Antwerp)
+**AI/ML Engineer · NLP & LLM Systems · Fintech Data Infrastructure**
 
-🔍 Into **data, AI, and full-stack development**
+I build ML pipelines and LLM applications that solve expensive problems in financial services: fraud detection, compliance automation, KYC processing, and the data platforms that make them work.
 
-🌍 Open to remote data / SWE roles
+If your team is spending analyst hours on work that a well-engineered model could handle in seconds, we should talk.
 
-About my GitHub
-------------------
+---
 
-🚀 GitLab is my primary workspace for building and documenting projects. Much of my earlier code lives in university-managed repositories, but here I showcase selected work that I continue to maintain and expand. I’m currently developing **BlueTour**, a larger-scale project that reflects my focus on tech solutions to help achive SDG goals.
+## What I Deliver
 
-🔧 Tech I Work With
--------------------
+**ML systems in production**: not notebooks. End-to-end pipelines (XGBoost, scikit-learn, sentence-transformers) deployed via API with monitoring and explainability.
 
-*   **Languages:** Java • Python • SQL (PostgreSQL) • HTML • CSS • JavaScript • C++ (basics)
+**LLM applications for regulated industries**: RAG architectures, document understanding, and agentic workflows built with LangChain and Ollama. Cited sources, hallucination guardrails, audit trails, because in finance, "mostly right" is a liability.
 
-*   **Backend:** Spring Boot 3 • Spring MVC • Spring Data JPA (Hibernate) • MapStruct • Jakarta Validation • Spring Security (roles, BCrypt, CSRF, method security) • Thymeleaf • Flask
+**Data platforms & BI dashboards**: medallion-architecture pipelines feeding Power BI with the metrics your CFO actually reads. I've built portfolio analytics, claims reporting, pipeline tracking, and funnel attribution for clients across insurance and e-commerce.
 
-*   **Frontend:** npm • Webpack • ES modules • SCSS/Sass • Bootstrap 5 • Bootswatch • fetch/AJAX
+---
 
-*   **Databases:** PostgreSQL • schema design (incl. star schema) • seed/data SQL
+## Current Projects
 
-*   **Data & ML:** Power BI • Pandas • NumPy • scikit-learn • Matplotlib • LLMs (prompt workflows) • Prompt engineering • ML foundations
+| Project | What It Proves | Stack |
+|---|---|---|
+| **End-to-End Fraud Detection Pipeline** | XGBoost · Flask API · Docker · explainability layer |
+| **RAG Compliance Q&A Assistant** | LangChain · sentence-transformers · Ollama · citation system |
+| **SaaS Metrics Data Platform** | Python ETL · PostgreSQL · Power BI · star schema |
+| **Agentic KYC Document Review** | Multi-step agent · document extraction · anomaly flagging |
 
-*   **Testing:** JUnit 5 • MockMvc • Mockito
+---
 
-*   **Build & Dev:** Gradle • YAML • Markdown • Spring profiles (dev/test)
+## Stack
 
-*   **CI/CD & Version Control:** GitHub/GitLab • CI (pipelines)
+**ML/AI:** Python · scikit-learn · XGBoost · sentence-transformers · LangChain · Ollama · Pandas · NumPy
+**Data:** SQL · PostgreSQL · Power BI · ETL pipelines · star schema design
+**Infrastructure:** Flask · Docker · Docker Compose · AWS · GCP
+**Compliance:** GDPR/data privacy · EU AI Act · explainable AI
 
-*   **Cloud & Deployment**: AWS • Docker • Docker Compose
+---
 
-*   **Practices:** REST API design • DTO mapping • @EntityGraph (N+1 control) • transactions (@Transactional) • Clean Architecture • Agile/Scrum • documentation
+## Background
 
-*   **Responsible AI & Compliance:** EU AI Act awareness • AI ethics • GDPR/Data Privacy
-    
+**AI/ML & Data Analytics**, KdG University graduate, Antwerp (CS & AI)
 
-✨ _Always learning, always building, one repo at a time._ ✨
+Production experience building analytics systems and growth infrastructure for enterprise clients in insurance, e-commerce, and consumer brands. Multilingual (English C2, French C1, Romanian native), I work directly with C-level stakeholders and technical teams across Europe.
+
+> Most production work lives in private repos. Public repos here are selected demos and write-ups.
+
+---
+
+## Work With Me
+
+[Malt](https://www.malt.com/profile/alexandramiron) 
+[Upwork](https://www.upwork.com/freelancers/~01ed0b09a32dde55e4) 
+[LinkedIn](https://www.linkedin.com/in/alexandra-miron-ba8b85212/) 
+[Substack](https://substack.com/@mariaalexandra340429)
+
 
 <!--
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68c6625a4d9410f8d1237f3e?variant=dark&roadmaps=data-analyst%2Cai-engineer%2Cfull-stack%2Ccyber-security" alt="roadmap.sh"/></a>
