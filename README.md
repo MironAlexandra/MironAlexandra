@@ -20,8 +20,8 @@ If your team is spending analyst hours on work that a well-engineered model coul
 
 ## Current Projects
 
-| Project | What It Proves | Stack |
-|---|---|---|
+| Project | Stack |
+|---|---|
 | **End-to-End Fraud Detection Pipeline** | XGBoost · Flask API · Docker · explainability layer |
 | **RAG Compliance Q&A Assistant** | LangChain · sentence-transformers · Ollama · citation system |
 | **SaaS Metrics Data Platform** | Python ETL · PostgreSQL · Power BI · star schema |
