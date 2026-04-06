@@ -48,16 +48,12 @@ If your team is spending analyst hours on work that a well-engineered model coul
 Production experience building analytics systems and growth infrastructure for enterprise clients in insurance, e-commerce, and consumer brands. Multilingual (English C2, French C1, Romanian native), I work directly with C-level stakeholders and technical teams across Europe.
 
 > Most production work lives in private repos. Public repos here are selected demos and write-ups.
-
+> 
 ---
 
 ## Work With Me
 
-[Malt](https://www.malt.com/profile/alexandramiron) 
-[Upwork](https://www.upwork.com/freelancers/~01ed0b09a32dde55e4) 
-[LinkedIn](https://www.linkedin.com/in/alexandra-miron-ba8b85212/) 
-[Substack](https://substack.com/@mariaalexandra340429)
-
+[Malt](https://www.malt.com/profile/alexandramiron) · [Upwork](https://www.upwork.com/freelancers/~01ed0b09a32dde55e4) · [LinkedIn](https://www.linkedin.com/in/alexandra-miron-ba8b85212/) · [Substack](https://substack.com/@mariaalexandra340429)
 
 <!--
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68c6625a4d9410f8d1237f3e?variant=dark&roadmaps=data-analyst%2Cai-engineer%2Cfull-stack%2Ccyber-security" alt="roadmap.sh"/></a>
