@@ -32,8 +32,11 @@ If your team is spending analyst hours on work that a well-engineered model coul
 ## Stack
 
 **ML/AI:** Python · scikit-learn · XGBoost · sentence-transformers · LangChain · Ollama · Pandas · NumPy
+
 **Data:** SQL · PostgreSQL · Power BI · ETL pipelines · star schema design
+
 **Infrastructure:** Flask · Docker · Docker Compose · AWS · GCP
+
 **Compliance:** GDPR/data privacy · EU AI Act · explainable AI
 
 ---
