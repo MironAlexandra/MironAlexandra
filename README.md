@@ -1,6 +1,6 @@
 # Hi, I'm Alexandra 👋
 
-I'm a data & AI engineer based in Antwerp 🇧🇪. My favourite moment in any project is when a messy, copy-paste-into-Excel process turns into something that just runs on its own.
+I'm a data & AI engineer based in Málaga, Spain 🇪🇸, working with teams in Antwerp and across Europe. My favourite moment in any project is when a messy, copy-paste-into-Excel process turns into something that just runs on its own.
 
 Most of my days are a mix of code and people: figuring out what a team really needs, building it, and making sure they can keep using it once I've handed it over.
 
@@ -39,7 +39,7 @@ Most of my days are a mix of code and people: figuring out what a team really ne
 
 ## ✨ A bit more about me
 
-- 🎓 Computer Science & AI at Karel de Grote University, Antwerp
+- 🎓 Computer Science & AI at Karel de Grote University (KdG), Antwerp
 - 🗣️ English, French and Romanian
 - 🔐 A bit of a security nerd: I'd rather ship something safe than something flashy
 - ✍️ I write about AI, data and security on [Substack](https://substack.com/@mariaalexandra340429)
